@@ -17,3 +17,8 @@ Bu proje, temel seviyede bir mobil e-ticaret katalog uygulaması taslağıdır. 
 1. Bağımlılıkları ve paket bağlantılarını yükleyin:
    ```bash
    flutter pub get
+
+2. Uygulamayı Chrome tarayıcısı üzerinde başlatın:
+    ```bash
+    flutter run -d chrome
+
