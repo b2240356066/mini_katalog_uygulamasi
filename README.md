@@ -10,7 +10,7 @@ Bu proje, temel seviyede bir mobil e-ticaret katalog uygulaması taslağıdır. 
 
 ## Veri Kaynakları
 
-* **Kampanya Banner Linki:** `https://wantapi.com/assets/banner.png`
+* **Kampanya Banner Linki:** `https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1000`
 * **Örnek Ürün Veri Yapısı:** `https://wantapi.com/products.php`
 
 ## Kullanılan Teknolojiler
