@@ -1,17 +1,19 @@
-# katalog_yeni
+# Mini Katalog Uygulaması
 
-A new Flutter project.
+Bu proje, temel seviyede bir mobil e-ticaret katalog uygulaması taslağıdır. [cite_start]Widget yapısı, named routes ile sayfa geçişleri, model sınıfı oluşturma ve `fromJson` ile dinamik JSON listeleme mantığını içerir[cite: 5, 102, 103].
 
-## Getting Started
+## Özellikler 
+- [cite_start]**Discover Ekranı:** `GridView.builder` ile kart tabanlı dinamik ürün listeleme ve kampanya banner alanı[cite: 105].
+- [cite_start]**Ürün Detay Ekranı:** `Route Arguments` ile taşınan ürüne ait detaylar, teknik özellikler ve sepet tetikleyicisi[cite: 104, 106].
+- [cite_start]**Sepet Ekranı:** Sepete eklenen ürünlerin listelenmesi ve sipariş tamamlama (`Checkout`) simülasyonu[cite: 106].
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
+- [cite_start]**Framework:** Flutter SDK [cite: 9]
+- [cite_start]**Dil:** Dart SDK [cite: 10]
+- **Çalışma Platformu:** Web (Google Chrome)
 
-A few resources to get you started if this is your first Flutter project:
+## Çalıştırma Adımları
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Bağımlılıkları ve paket bağlantılarını yükleyin:
+   ```bash
+   flutter pub get
