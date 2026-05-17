@@ -245,7 +245,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ClipRRect(
               borderRadius: BorderRadius.circular(16),
               child: Image.network(
-                'https://wantapi.com/assets/banner.png',
+                'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1000',
                 width: double.infinity,
                 height: 110,
                 fit: BoxFit.cover,
