@@ -14,10 +14,10 @@ Bu proje, temel seviyede bir mobil e-ticaret katalog uygulaması taslağıdır. 
 * **Örnek Ürün Veri Yapısı:** `https://wantapi.com/products.php`
 
 ## Kullanılan Teknolojiler
-- **Framework:** Flutter SDK 
-- **Dil:** Dart SDK 
+- **Framework:** Flutter SDK 3.41.9
+- **Programlama Dili:** Dart SDK 3.11.5
 - **Geliştirme Ortamı (IDE):** Visual Studio Code
-- **Çalışma Platformu:** Web (Google Chrome)
+- **Çalıştırma Platformu:** Google Chrome (Web Derlemesi)
 
 ## Çalıştırma Adımları
 
